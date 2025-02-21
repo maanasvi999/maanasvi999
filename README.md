@@ -46,8 +46,8 @@ Welcome to my GitHub Profile! I'm a **Software Engineer & Machine Learning Enthu
 
 ## 📌 Featured Projects
 - **[Disaster Tweets Classification](https://github.com/maanasvi999/disaster-tweets)** – ML/NLP model to classify disaster-related tweets (81.68% accuracy).
-- **[Smart Crops System](https://github.com/maanasvi999/smart-crops)** – AI + IoT-based smart irrigation system for efficient farming.
-- **[Job Search Platform](https://github.com/maanasvi999/job-search)** – A Django REST-powered platform for blue-collar job listings.
+- **[Smart Crops System](https://github.com/maanasvi999/SmartCropsSystem)** – AI + IoT-based smart irrigation system for efficient farming.
+- **[Job Search Platform](https://github.com/maanasvi999/jobsearchapp)** – A Django REST-powered platform for blue-collar job listings.
 
 ---
 
