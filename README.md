@@ -45,6 +45,8 @@ Welcome to my GitHub Profile! I'm a **Software Engineer & Machine Learning Enthu
 ---
 
 ## 📌 Featured Projects
+- **[AI-powered Claim Approval](https://github.com/maanasvi999/ai-claim-approval)** – OpenAI and RAG powered platform for Health Insurance claim approvals.
+- **Adversarial Filtering of LLM Prompt Injections** - Novel technique to filter outputs from prompt injections on Gemini, ChatGPT and MistralAI.
 - **[Disaster Tweets Classification](https://github.com/maanasvi999/disaster-tweets)** – ML/NLP model to classify disaster-related tweets (81.68% accuracy).
 - **[Smart Crops System](https://github.com/maanasvi999/SmartCropsSystem)** – AI + IoT-based smart irrigation system for efficient farming.
 - **[Job Search Platform](https://github.com/maanasvi999/jobsearchapp)** – A Django REST-powered platform for blue-collar job listings.
@@ -62,4 +64,4 @@ Welcome to my GitHub Profile! I'm a **Software Engineer & Machine Learning Enthu
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/maanasvi999)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mkodli2@illinois.edu)
 
-🚀 Thanks for stopping by! Let's build something awesome together. 😊
+🚀 Thanks for stopping by! Let's connect and build something awesome together. 😊
