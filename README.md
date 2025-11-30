@@ -4,6 +4,7 @@ Welcome to my GitHub Profile! I'm a **Software Engineer & Machine Learning Enthu
 
 ## 🚀 About Me
 - 🎓 **Master's in Computer Science** @ UIUC (GPA: 3.94/4)
+- Design Verification Engineer at Apple | Building software for hardware/RTL verification
 - 💻 **Ex-Software Engineer at Micron Technology** | Worked on ERP, ETL, and Finance automation
 - 🔍 **Research in NLP & Data Science** @ UIUC (Gies Business Research Lab, Health Equity & Aging Lab)
 - 🎯 **Seeking 2025 AI/ML, Software Engineering, and Data Science opportunities**
